@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserHamcrestTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-07T10:17:32" hostname="DESKTOP-GGB2R16" time="0.051">
+  <properties/>
+  <testcase name="testCheckAge()" classname="UserHamcrestTest" time="0.011"/>
+  <testcase name="[1] login, password" classname="UserHamcrestTest" time="0.013"/>
+  <testcase name="[1] test, test, -9, test" classname="UserHamcrestTest" time="0.007"/>
+  <system-out><![CDATA[Run Tests
+start new test
+complete test
+start new test
+complete test
+start new test
+complete test
+Complete Tests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
